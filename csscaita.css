@@ -117,7 +117,7 @@ section .content {
 }
   
 section .text {
-  width: 100%;
+  width: 70%;
 }
   
 .leveler {
@@ -146,7 +146,7 @@ section .text {
 		}
 }
 img {
-  width: 100%;
+  width: 60%;
 }
   
 #title {
@@ -185,7 +185,7 @@ img {
       opacity: 0;
     }
      to {
-      width: 28vw;
+      width: 2.8vw;
       opacity: 1;
     }
   }
